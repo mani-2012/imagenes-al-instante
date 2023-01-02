@@ -1,0 +1,22 @@
+.heading
+  {
+    background: rgb(110, 200, 227) ; 
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(249, 163, 163);
+  }
+  .result_para_tag
+  {
+    background-color: palevioletred;
+    color: white;
+    box-shadow:5px 5px 5px rgb(158, 99, 239);
+    font-size: 20px;
+    width:fit-content;
+  }
+  .heading_div
+  {
+    background: #545252; 
+    width: fit-content;
+    margin: 0px;
+    box-shadow:5px 5px 5px khaki
+  }
